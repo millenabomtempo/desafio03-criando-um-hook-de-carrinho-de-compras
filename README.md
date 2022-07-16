@@ -5,7 +5,7 @@
 ![Badge](https://img.shields.io/badge/status-finalizado-green?style=flat-square)
 
 ## About
-In this challenge we had to create a custom hook for the cart and share it with all components using contextAPI applying what we learned so far during the course.
+In this challenge we had to create a custom hook for the cart and share it with all components using contextAPI applying what we learned so far during the course.  
 App created at Rocketseat's Ignite course.
 
 ## :pushpin: Table of contents
